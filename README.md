@@ -7,12 +7,12 @@ So I decided to make a monthly data series by digitizing images of price graphs 
 
 New files just added 28/11/2016
 
-NZU-weekly-prices-data-2010-2016.csv  (web-scraped raw price data, irregular dates, price and reference)
+NZU-weekly-prices-data-2010-2016.csv (web-scraped raw price data, irregular dates, price and reference)
 
-nzu-month-price-2010-2016.csv         (processed monthly mean of raw price data)
+nzu-month-price-2010-2016.csv        (processed monthly mean of raw price data)
 
-NZU-monthly-mean-2010-2016.r          (R script file of code to process raw price data to monthly mean price)
+NZU-monthly-mean-2010-2016.r         (R script file of code to process raw price data to monthly mean price)
 
-NZU-charts.r                          (R script file of code to create charts)
+NZU-charts.r                         (R script file of code to create charts)
 
-Licence.txt
+Licence.txt                          (Public Domain  Dedication and License v1.0 http://opendatacommons.org/licenses/pddl/1.0/)
